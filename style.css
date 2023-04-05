@@ -103,6 +103,17 @@ body {
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
+#copyp {
+    position: relative;
+    padding-bottom: 20px;
+    color: var(--accentColor);
+    font-size: 10px;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+ 
+}
 
 /*-------------------------animations-----------------------*/
 @keyframes transitionAnimation {
